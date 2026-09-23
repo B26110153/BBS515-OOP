@@ -1,0 +1,4 @@
+Merhaba, ben Cansu Öztürk. Endüstri Mühendisliği mezunuyum ve Hacettepe Üniversitesi Yazılım Mühendisliği Bölümü öğrencisiyim. 
+Yaklaşık 10 yıldır savunma sektöründe Test Mühendisi olarak çalışıyorum. 
+Şu anda Bilimsel Hazırlık sınıfındayım. Yazılım geliştirme ve programlamaya ilgi duyuyorum. Daha önce C programlama dili ile çalışma deneyimim oldu.
+Bu ders kapsamında, Java programlama dilini öğrenmek, nesne yönelimli programlama becerilerimi geliştirmek ve öğrendiklerimi uygulamalı projelerde kullanmak istiyorum.
