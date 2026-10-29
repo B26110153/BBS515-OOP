@@ -1,0 +1,13 @@
+1. arac1 nesnesinin kiradaMi değeri true olduğunda neden arac2 ve arac3 nesnelerinin kiralama durumları değişmez?
+
+Her araç ayrı bir nesne olarak oluşturulduğu için kendine ait kiralama durumunu tutar. 
+arac1.kirala() çağrısı yalnızca arac1 nesnesini etkiler. 
+Diğer araçların durumları değişmez.
+
+
+  
+2. Nesnelerin özelliklerini tek tek atamak yerine constructor ile başlatmanın ne gibi faydaları vardır?
+
+Constructor sayesinde başlangıç bilgilerini nesneyi oluştururken birlikte verebiliriz. 
+Bilgileri sonradan tek tek atamamız gerekmez.
+Bu, kodu daha düzenli hâle getirir ve başlangıç bilgilerini atamayı unutma riskini azaltır.
